@@ -1,0 +1,11 @@
+{
+    "id": "/refreshAuthSchema",
+    "type": "object",
+    "properties": {
+        "refreshToken": {
+            "type": "string",
+            "required": true
+        }
+    },
+    "additionalProperties": false
+}

@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "7eeae359c9908bb89e8ade41be5e89bc",
+    "tokenLife": "1h",
+    "jwtRefreshSecret": "2f067a3792c846b3f9415f59376508c4",
+    "refreshTokenLife": "30d"
+}

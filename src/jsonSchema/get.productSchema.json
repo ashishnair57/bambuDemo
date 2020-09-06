@@ -1,0 +1,25 @@
+{
+    "id": "/productSchema",
+    "type": "object",
+    "properties": {
+        "itemsPerPage": {
+            "type": "integer"
+        },
+        "pageNumber": {
+            "type": "integer"
+        },
+        "showAssetClassBreakdown": {
+            "type": "string"
+        },
+        "showGeographicalBreakdown": {
+            "type": "string"
+        },
+        "filterByCodes": {
+            "type": "string"
+        },
+        "showOnly": {
+            "type": "string"
+        }   
+    },
+    "additionalProperties": false
+}

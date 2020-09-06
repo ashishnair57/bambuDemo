@@ -1,0 +1,20 @@
+{
+    "development": {
+        "username": "root",
+        "password": "password",
+        "database": "bambu",
+        "host": "db"
+    },
+    "test": {
+        "username": "root",
+        "password": "password",
+        "database": "bambu",
+        "host": "db"
+    },
+    "production": {
+        "username": "root",
+        "password": "password",
+        "database": "bambu",
+        "host": "db"
+    }
+}
